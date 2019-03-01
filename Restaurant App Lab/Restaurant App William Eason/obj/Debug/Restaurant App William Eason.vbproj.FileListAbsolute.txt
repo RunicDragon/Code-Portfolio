@@ -1,0 +1,48 @@
+E:\CST 130\VB Labs\New Project\Restaurant App\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.exe.config
+E:\CST 130\VB Labs\New Project\Restaurant App\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.exe
+E:\CST 130\VB Labs\New Project\Restaurant App\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.pdb
+E:\CST 130\VB Labs\New Project\Restaurant App\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.xml
+E:\CST 130\VB Labs\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.vbprojResolveAssemblyReference.cache
+E:\CST 130\VB Labs\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant_App_William_Eason.FrmMain.resources
+E:\CST 130\VB Labs\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant_App_William_Eason.Resources.resources
+E:\CST 130\VB Labs\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.vbproj.GenerateResource.Cache
+E:\CST 130\VB Labs\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.vbproj.CoreCompileInputs.cache
+E:\CST 130\VB Labs\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.exe
+E:\CST 130\VB Labs\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.xml
+E:\CST 130\VB Labs\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.pdb
+E:\CST 130\VB Labs\William Eason Lab 3\New Project\Restaurant App\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.exe.config
+E:\CST 130\VB Labs\William Eason Lab 3\New Project\Restaurant App\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.exe
+E:\CST 130\VB Labs\William Eason Lab 3\New Project\Restaurant App\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.pdb
+E:\CST 130\VB Labs\William Eason Lab 3\New Project\Restaurant App\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.xml
+E:\CST 130\VB Labs\William Eason Lab 3\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.vbprojAssemblyReference.cache
+E:\CST 130\VB Labs\William Eason Lab 3\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant_App_William_Eason.FrmMain.resources
+E:\CST 130\VB Labs\William Eason Lab 3\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant_App_William_Eason.Resources.resources
+E:\CST 130\VB Labs\William Eason Lab 3\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.vbproj.GenerateResource.cache
+E:\CST 130\VB Labs\William Eason Lab 3\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.vbproj.CoreCompileInputs.cache
+E:\CST 130\VB Labs\William Eason Lab 3\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.exe
+E:\CST 130\VB Labs\William Eason Lab 3\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.xml
+E:\CST 130\VB Labs\William Eason Lab 3\New Project\Restaurant App\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.pdb
+E:\CST 130\VB Labs\William Eason Lab 3\Restaurant App Lab\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.exe.config
+E:\CST 130\VB Labs\William Eason Lab 3\Restaurant App Lab\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.exe
+E:\CST 130\VB Labs\William Eason Lab 3\Restaurant App Lab\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.pdb
+E:\CST 130\VB Labs\William Eason Lab 3\Restaurant App Lab\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.xml
+E:\CST 130\VB Labs\William Eason Lab 3\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant_App_William_Eason.FrmMain.resources
+E:\CST 130\VB Labs\William Eason Lab 3\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant_App_William_Eason.Resources.resources
+E:\CST 130\VB Labs\William Eason Lab 3\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.vbproj.GenerateResource.Cache
+E:\CST 130\VB Labs\William Eason Lab 3\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.vbproj.CoreCompileInputs.cache
+E:\CST 130\VB Labs\William Eason Lab 3\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.exe
+E:\CST 130\VB Labs\William Eason Lab 3\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.xml
+E:\CST 130\VB Labs\William Eason Lab 3\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.pdb
+E:\CST 130\VB Labs\William Eason Lab 3\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.vbprojAssemblyReference.cache
+E:\CST 130\VB Labs\William Eason Lab 5\Restaurant App Lab\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.exe.config
+E:\CST 130\VB Labs\William Eason Lab 5\Restaurant App Lab\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.exe
+E:\CST 130\VB Labs\William Eason Lab 5\Restaurant App Lab\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.pdb
+E:\CST 130\VB Labs\William Eason Lab 5\Restaurant App Lab\Restaurant App William Eason\bin\Debug\Restaurant App William Eason.xml
+E:\CST 130\VB Labs\William Eason Lab 5\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant_App_William_Eason.FrmMain.resources
+E:\CST 130\VB Labs\William Eason Lab 5\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant_App_William_Eason.Resources.resources
+E:\CST 130\VB Labs\William Eason Lab 5\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.vbproj.GenerateResource.Cache
+E:\CST 130\VB Labs\William Eason Lab 5\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.vbproj.CoreCompileInputs.cache
+E:\CST 130\VB Labs\William Eason Lab 5\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.exe
+E:\CST 130\VB Labs\William Eason Lab 5\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.xml
+E:\CST 130\VB Labs\William Eason Lab 5\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.pdb
+E:\CST 130\VB Labs\William Eason Lab 5\Restaurant App Lab\Restaurant App William Eason\obj\Debug\Restaurant App William Eason.vbprojResolveAssemblyReference.cache
