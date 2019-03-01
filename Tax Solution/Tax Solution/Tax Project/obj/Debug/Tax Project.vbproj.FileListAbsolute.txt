@@ -1,0 +1,24 @@
+E:\CST 130\VB Labs\William Eason Lab 3\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax Project.vbprojAssemblyReference.cache
+E:\CST 130\VB Labs\William Eason Lab 3\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax_Project.frmMain.resources
+E:\CST 130\VB Labs\William Eason Lab 3\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax_Project.Resources.resources
+E:\CST 130\VB Labs\William Eason Lab 3\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax Project.vbproj.GenerateResource.cache
+E:\CST 130\VB Labs\William Eason Lab 3\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax Project.vbproj.CoreCompileInputs.cache
+E:\CST 130\VB Labs\William Eason Lab 3\Tax Solution\Tax Solution\Tax Project\bin\Debug\Tax Project.exe.config
+E:\CST 130\VB Labs\William Eason Lab 3\Tax Solution\Tax Solution\Tax Project\bin\Debug\Tax Project.exe
+E:\CST 130\VB Labs\William Eason Lab 3\Tax Solution\Tax Solution\Tax Project\bin\Debug\Tax Project.pdb
+E:\CST 130\VB Labs\William Eason Lab 3\Tax Solution\Tax Solution\Tax Project\bin\Debug\Tax Project.xml
+E:\CST 130\VB Labs\William Eason Lab 3\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax Project.exe
+E:\CST 130\VB Labs\William Eason Lab 3\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax Project.xml
+E:\CST 130\VB Labs\William Eason Lab 3\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax Project.pdb
+E:\CST 130\VB Labs\William Eason Lab 5\Tax Solution\Tax Solution\Tax Project\bin\Debug\Tax Project.exe.config
+E:\CST 130\VB Labs\William Eason Lab 5\Tax Solution\Tax Solution\Tax Project\bin\Debug\Tax Project.exe
+E:\CST 130\VB Labs\William Eason Lab 5\Tax Solution\Tax Solution\Tax Project\bin\Debug\Tax Project.pdb
+E:\CST 130\VB Labs\William Eason Lab 5\Tax Solution\Tax Solution\Tax Project\bin\Debug\Tax Project.xml
+E:\CST 130\VB Labs\William Eason Lab 5\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax Project.vbprojResolveAssemblyReference.cache
+E:\CST 130\VB Labs\William Eason Lab 5\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax_Project.frmMain.resources
+E:\CST 130\VB Labs\William Eason Lab 5\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax_Project.Resources.resources
+E:\CST 130\VB Labs\William Eason Lab 5\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax Project.vbproj.GenerateResource.Cache
+E:\CST 130\VB Labs\William Eason Lab 5\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax Project.vbproj.CoreCompileInputs.cache
+E:\CST 130\VB Labs\William Eason Lab 5\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax Project.exe
+E:\CST 130\VB Labs\William Eason Lab 5\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax Project.xml
+E:\CST 130\VB Labs\William Eason Lab 5\Tax Solution\Tax Solution\Tax Project\obj\Debug\Tax Project.pdb
