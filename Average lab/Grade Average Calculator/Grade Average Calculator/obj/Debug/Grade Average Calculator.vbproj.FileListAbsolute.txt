@@ -1,0 +1,12 @@
+C:\Users\william.eason\Desktop\Average lab\Grade Average Calculator\Grade Average Calculator\obj\Debug\Grade Average Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\william.eason\Desktop\Average lab\Grade Average Calculator\Grade Average Calculator\obj\Debug\Grade_Average_Calculator.frmMain.resources
+C:\Users\william.eason\Desktop\Average lab\Grade Average Calculator\Grade Average Calculator\obj\Debug\Grade_Average_Calculator.Resources.resources
+C:\Users\william.eason\Desktop\Average lab\Grade Average Calculator\Grade Average Calculator\obj\Debug\Grade Average Calculator.vbproj.GenerateResource.Cache
+C:\Users\william.eason\Desktop\Average lab\Grade Average Calculator\Grade Average Calculator\obj\Debug\Grade Average Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\william.eason\Desktop\Average lab\Grade Average Calculator\Grade Average Calculator\bin\Debug\Grade Average Calculator.exe.config
+C:\Users\william.eason\Desktop\Average lab\Grade Average Calculator\Grade Average Calculator\bin\Debug\Grade Average Calculator.exe
+C:\Users\william.eason\Desktop\Average lab\Grade Average Calculator\Grade Average Calculator\bin\Debug\Grade Average Calculator.pdb
+C:\Users\william.eason\Desktop\Average lab\Grade Average Calculator\Grade Average Calculator\bin\Debug\Grade Average Calculator.xml
+C:\Users\william.eason\Desktop\Average lab\Grade Average Calculator\Grade Average Calculator\obj\Debug\Grade Average Calculator.exe
+C:\Users\william.eason\Desktop\Average lab\Grade Average Calculator\Grade Average Calculator\obj\Debug\Grade Average Calculator.xml
+C:\Users\william.eason\Desktop\Average lab\Grade Average Calculator\Grade Average Calculator\obj\Debug\Grade Average Calculator.pdb
