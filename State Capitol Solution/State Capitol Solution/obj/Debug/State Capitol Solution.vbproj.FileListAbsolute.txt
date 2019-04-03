@@ -1,0 +1,12 @@
+E:\CST-130\VB Labs\William Eason Lab 8\State Capitol Solution\State Capitol Solution\bin\Debug\State Capitol Solution.exe.config
+E:\CST-130\VB Labs\William Eason Lab 8\State Capitol Solution\State Capitol Solution\bin\Debug\State Capitol Solution.exe
+E:\CST-130\VB Labs\William Eason Lab 8\State Capitol Solution\State Capitol Solution\bin\Debug\State Capitol Solution.pdb
+E:\CST-130\VB Labs\William Eason Lab 8\State Capitol Solution\State Capitol Solution\bin\Debug\State Capitol Solution.xml
+E:\CST-130\VB Labs\William Eason Lab 8\State Capitol Solution\State Capitol Solution\obj\Debug\State Capitol Solution.vbprojResolveAssemblyReference.cache
+E:\CST-130\VB Labs\William Eason Lab 8\State Capitol Solution\State Capitol Solution\obj\Debug\State_Capitol_Solution.frmMain.resources
+E:\CST-130\VB Labs\William Eason Lab 8\State Capitol Solution\State Capitol Solution\obj\Debug\State_Capitol_Solution.Resources.resources
+E:\CST-130\VB Labs\William Eason Lab 8\State Capitol Solution\State Capitol Solution\obj\Debug\State Capitol Solution.vbproj.GenerateResource.Cache
+E:\CST-130\VB Labs\William Eason Lab 8\State Capitol Solution\State Capitol Solution\obj\Debug\State Capitol Solution.vbproj.CoreCompileInputs.cache
+E:\CST-130\VB Labs\William Eason Lab 8\State Capitol Solution\State Capitol Solution\obj\Debug\State Capitol Solution.exe
+E:\CST-130\VB Labs\William Eason Lab 8\State Capitol Solution\State Capitol Solution\obj\Debug\State Capitol Solution.xml
+E:\CST-130\VB Labs\William Eason Lab 8\State Capitol Solution\State Capitol Solution\obj\Debug\State Capitol Solution.pdb

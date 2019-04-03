@@ -1,0 +1,35 @@
+E:\VB2017\Chap04\Gross Solution\Gross Project\bin\Debug\Gross Project.exe.config
+E:\VB2017\Chap04\Gross Solution\Gross Project\bin\Debug\Gross Project.exe
+E:\VB2017\Chap04\Gross Solution\Gross Project\bin\Debug\Gross Project.pdb
+E:\VB2017\Chap04\Gross Solution\Gross Project\bin\Debug\Gross Project.xml
+E:\VB2017\Chap04\Gross Solution\Gross Project\obj\Debug\Gross Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\Gross Solution\Gross Project\obj\Debug\Gross_Project.frmMain.resources
+E:\VB2017\Chap04\Gross Solution\Gross Project\obj\Debug\Gross_Project.Resources.resources
+E:\VB2017\Chap04\Gross Solution\Gross Project\obj\Debug\Gross Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Gross Solution\Gross Project\obj\Debug\Gross Project.exe
+E:\VB2017\Chap04\Gross Solution\Gross Project\obj\Debug\Gross Project.xml
+E:\VB2017\Chap04\Gross Solution\Gross Project\obj\Debug\Gross Project.pdb
+C:\Users\we131\OneDrive\Desktop\Gross Solution\Gross Project\bin\Debug\Gross Project.exe.config
+C:\Users\we131\OneDrive\Desktop\Gross Solution\Gross Project\bin\Debug\Gross Project.exe
+C:\Users\we131\OneDrive\Desktop\Gross Solution\Gross Project\bin\Debug\Gross Project.pdb
+C:\Users\we131\OneDrive\Desktop\Gross Solution\Gross Project\bin\Debug\Gross Project.xml
+C:\Users\we131\OneDrive\Desktop\Gross Solution\Gross Project\obj\Debug\Gross Project.vbprojAssemblyReference.cache
+C:\Users\we131\OneDrive\Desktop\Gross Solution\Gross Project\obj\Debug\Gross_Project.frmMain.resources
+C:\Users\we131\OneDrive\Desktop\Gross Solution\Gross Project\obj\Debug\Gross_Project.Resources.resources
+C:\Users\we131\OneDrive\Desktop\Gross Solution\Gross Project\obj\Debug\Gross Project.vbproj.GenerateResource.cache
+C:\Users\we131\OneDrive\Desktop\Gross Solution\Gross Project\obj\Debug\Gross Project.vbproj.CoreCompileInputs.cache
+C:\Users\we131\OneDrive\Desktop\Gross Solution\Gross Project\obj\Debug\Gross Project.exe
+C:\Users\we131\OneDrive\Desktop\Gross Solution\Gross Project\obj\Debug\Gross Project.xml
+C:\Users\we131\OneDrive\Desktop\Gross Solution\Gross Project\obj\Debug\Gross Project.pdb
+E:\CST-130\VB Labs\William Eason Lab 8\Gross Solution\Gross Project\bin\Debug\Gross Project.exe.config
+E:\CST-130\VB Labs\William Eason Lab 8\Gross Solution\Gross Project\bin\Debug\Gross Project.exe
+E:\CST-130\VB Labs\William Eason Lab 8\Gross Solution\Gross Project\bin\Debug\Gross Project.pdb
+E:\CST-130\VB Labs\William Eason Lab 8\Gross Solution\Gross Project\bin\Debug\Gross Project.xml
+E:\CST-130\VB Labs\William Eason Lab 8\Gross Solution\Gross Project\obj\Debug\Gross Project.vbprojResolveAssemblyReference.cache
+E:\CST-130\VB Labs\William Eason Lab 8\Gross Solution\Gross Project\obj\Debug\Gross_Project.frmMain.resources
+E:\CST-130\VB Labs\William Eason Lab 8\Gross Solution\Gross Project\obj\Debug\Gross_Project.Resources.resources
+E:\CST-130\VB Labs\William Eason Lab 8\Gross Solution\Gross Project\obj\Debug\Gross Project.vbproj.GenerateResource.Cache
+E:\CST-130\VB Labs\William Eason Lab 8\Gross Solution\Gross Project\obj\Debug\Gross Project.vbproj.CoreCompileInputs.cache
+E:\CST-130\VB Labs\William Eason Lab 8\Gross Solution\Gross Project\obj\Debug\Gross Project.exe
+E:\CST-130\VB Labs\William Eason Lab 8\Gross Solution\Gross Project\obj\Debug\Gross Project.xml
+E:\CST-130\VB Labs\William Eason Lab 8\Gross Solution\Gross Project\obj\Debug\Gross Project.pdb

@@ -1,0 +1,12 @@
+E:\CST-130\VB Labs\William Eason Lab 8\Hales Solution\Hales Solution\obj\Debug\Hales Solution.vbprojResolveAssemblyReference.cache
+E:\CST-130\VB Labs\William Eason Lab 8\Hales Solution\Hales Solution\obj\Debug\Hales_Solution.frmMain.resources
+E:\CST-130\VB Labs\William Eason Lab 8\Hales Solution\Hales Solution\obj\Debug\Hales_Solution.Resources.resources
+E:\CST-130\VB Labs\William Eason Lab 8\Hales Solution\Hales Solution\obj\Debug\Hales Solution.vbproj.GenerateResource.Cache
+E:\CST-130\VB Labs\William Eason Lab 8\Hales Solution\Hales Solution\obj\Debug\Hales Solution.vbproj.CoreCompileInputs.cache
+E:\CST-130\VB Labs\William Eason Lab 8\Hales Solution\Hales Solution\bin\Debug\Hales Solution.exe.config
+E:\CST-130\VB Labs\William Eason Lab 8\Hales Solution\Hales Solution\bin\Debug\Hales Solution.exe
+E:\CST-130\VB Labs\William Eason Lab 8\Hales Solution\Hales Solution\bin\Debug\Hales Solution.pdb
+E:\CST-130\VB Labs\William Eason Lab 8\Hales Solution\Hales Solution\bin\Debug\Hales Solution.xml
+E:\CST-130\VB Labs\William Eason Lab 8\Hales Solution\Hales Solution\obj\Debug\Hales Solution.exe
+E:\CST-130\VB Labs\William Eason Lab 8\Hales Solution\Hales Solution\obj\Debug\Hales Solution.xml
+E:\CST-130\VB Labs\William Eason Lab 8\Hales Solution\Hales Solution\obj\Debug\Hales Solution.pdb
